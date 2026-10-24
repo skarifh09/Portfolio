@@ -1,6 +1,6 @@
 import useTypingEffect from "../hooks/useTypingEffect";
 import portfolioData from "../data/portfolioData";
-import pic from "../assets/PIC.jpg";
+import pic from "../assets/PIC.jpeg";
 
 const TITLES = ["Software Developer", "Full-Stack Engineer", "React Specialist", "Java Developer"];
 
